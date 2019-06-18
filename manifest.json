@@ -1,0 +1,21 @@
+{
+  "content_scripts": [
+    {
+      "css": [
+        "linkedin-feed-blocker.css"
+      ],
+      "matches": [
+        "*://*.linkedin.com/*"
+      ]
+    }
+  ],
+  "description": "Block your LinkedIn feed to remove updates from your network, companies you follow, recommended content, and sponsored content.",
+  "icons": {
+    "16": "img/linkedin-16.png",
+    "128": "img/linkedin-128.png",
+    "512": "img/linkedin-512.png"
+  },
+  "manifest_version": 2,
+  "name": "LinkedIn Feed Blocker",
+  "version": "0.0.1"
+}

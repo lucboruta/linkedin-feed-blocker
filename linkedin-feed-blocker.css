@@ -1,0 +1,6 @@
+.feed-new-update-pill__new-update-button,
+.feed-right-rail,
+.feed-shared-update-v2,
+.nav-item__badge--doughnut {
+	display: none !important;
+}
