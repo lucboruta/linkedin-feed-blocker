@@ -2,6 +2,10 @@
 
 Simple Chrome extension to block your LinkedIn feed and remove updates from your network, companies you follow, recommended content, and sponsored content.
 
+## Deprecation notice
+
+**This extension is no longer maintained. Please consider using [@njelich](https://github.com/njelich)'s [LinkOff](https://github.com/njelich/linkoff) instead.**
+
 ## Add to Chrome
 
 👉 https://chrome.google.com/webstore/detail/linkedin-feed-blocker/bacadbohjalkmmopkbfjhpafninfhano 👈
